@@ -447,7 +447,7 @@ export default class Index extends wepy.page {
     <view>  </view>
 </template>
 <script>
-import wepy form 'wepy';
+import wepy from 'wepy';
 export default class Com extends wepy.component {
 
     components = {};
